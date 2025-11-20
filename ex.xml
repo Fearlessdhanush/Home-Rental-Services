@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE users SYSTEM "ex.dtd">
+<users>
+    <user>
+        <id>1</id>
+        <name>John Doe</name>
+        <email>john.doe@example.com</email>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Jane Doe</name>
+        <email>jane.doe@example.com</email>
+    </user>
+</users>

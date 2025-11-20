@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team>
+    <member>
+        <name>DHANUSH</name>
+        <role>CEO</role>
+        <bio>Dhanush is the founder and CEO of our company...</bio>
+    </member>
+    <member>
+        <name>DHIVAGAR</name>
+        <role>CTO</role>
+        <bio>Jane oversees our technical operations...</bio>
+    </member>
+    <member>
+        <name>ANBU</name>
+        <role>HR MANAGER</role>
+        <bio>Jane oversees our technical operations...</bio>
+    </member>
+</team>
